@@ -5,5 +5,6 @@ public abstract class AbstractClass {
  public void display()
  {
 	 System.out.println("non Abstract method");
+	 System.out.println("TEST");
  }
 }
