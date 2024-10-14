@@ -20,7 +20,7 @@ public class Sample {
 
 	public static void main(String[] args) throws LicenseException {
 		Sample obj = new Sample();
-		obj.test(60);
+		obj.test(5);
 		
 		// TODO Auto-generated method stub
 

@@ -1,7 +1,7 @@
 package absraction;
 
 public abstract class AbstractClass1 {
-	 static int age =10;
+	  static int age =10;
 	
 	
 	public abstract void student();

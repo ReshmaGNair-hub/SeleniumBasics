@@ -13,7 +13,7 @@ public class ClassAggregate2 {
 		
 		ClassAggregate1 obj =new ClassAggregate1();//aggregate
 		obj.print();
-		ClassAggregate2 obj1 =new ClassAggregate2();
+		ClassAggregate2  obj1 =new ClassAggregate2();
 		
 		obj1.display();
 	}

@@ -12,12 +12,13 @@ public class NullPointException {
 	{
 		System.out.println("Nullpoint Exception handled");
 		System.out.println(e);
+	}
 }
-	finally
+	/*finally
 	{
 		System.out.println("Finally block");
 	}
-	}
+	}*/
 
 	public static void main(String[] args) {
 		NullPointException obj = new NullPointException();

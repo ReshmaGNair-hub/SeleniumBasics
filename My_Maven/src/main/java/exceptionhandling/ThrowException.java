@@ -7,7 +7,7 @@ public class ThrowException {
 		{
 			
 		
-		throw new ArithmeticException("not elligible");
+		throw new ArithmeticException("not elligible");//throwing to constructor of arithmeticexception
 		//System.out.println("Not elligible for voting");
 	}
 		else
