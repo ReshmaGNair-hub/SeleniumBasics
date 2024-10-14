@@ -14,8 +14,10 @@ public class CSSExample {
 		WebElement refname = driver.findElement(By.cssSelector("#twotabsearchtextbox"));
 		refname.sendKeys("mobile");
 		refname.clear();
+		
 		WebElement cssvalue = driver.findElement(By.cssSelector(".nav-input.nav-progressive-attribute"));
 		cssvalue.sendKeys("books");
+		driver.close();
 
 	}
 
